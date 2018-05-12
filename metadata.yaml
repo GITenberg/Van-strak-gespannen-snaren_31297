@@ -1,0 +1,36 @@
+_repo: Van-strak-gespannen-snaren_31297
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Kuyper, Abraham
+    alias: Kuyper, A. (Abraham)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '38593'
+    url: http://www.gutenberg.org/2009/agents/38593
+covers:
+- cover_type: archival
+  image_path: 31297-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rudolph, R. J. W. (Roelof Jan Willem)
+    alias: Rudolph, Roelof Jan Willem
+    birthdate: 1862
+    deathdate: 1914
+    gutenberg_agent_id: '35131'
+    url: http://www.gutenberg.org/2009/agents/35131
+description: ''
+gutenberg_issued: '2010-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31297'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism and Christianity -- Netherlands'
+- !lcc 'HX'
+- !lcsh 'Rudolph, R. J. W. (Roelof Jan Willem), 1862-1914'
+title: Van strak gespannen snaren
+url: http://www.gutenberg.org/ebooks/31297
